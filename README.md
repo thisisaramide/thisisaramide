@@ -20,7 +20,7 @@ I am a **Cybersecurity Analyst & Facilitator** with deep technical expertise in 
 | **SIEM / Logging** | `Microsoft Sentinel` `Splunk` `Palo Alto Cortex` |
 | **EDR / XDR** | `CrowdStrike Falcon` `Sophos Intercept X` |
 | **Data Protection** | `Microsoft Purview (DLP)` |
-| **Cloud & Identity** | `Azure Security` `AWS` `Microsoft Entra ID (Zero Trust)` `Google Cloud Worrkspace` |
+| **Cloud & Identity** | `Azure Security` `AWS` `Microsoft Entra ID (Zero Trust)` `Google Cloud Workspace` |
 | **Frameworks** | `NIST CSF` `MITRE ATT&CK` `SOC2` `ISO 27001` |
 
 ---
@@ -35,8 +35,8 @@ I am a **Cybersecurity Analyst & Facilitator** with deep technical expertise in 
 
 ### ⚡ Find Me On
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/thisisaramide" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:jimoharamide02@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
