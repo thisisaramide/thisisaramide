@@ -5,11 +5,11 @@
 ---
 
 ### 🛡️ Professional Overview
-I am a **Cybersecurity Analyst & Facilitator** dedicated to building resilient security postures. My expertise spans technical threat hunting and strategic compliance, ensuring that security is not just a barrier, but a business enabler.
+I am a **Cybersecurity Analyst & Facilitator** with deep technical expertise in defensive operations and GRC. I bridge the gap between technical security controls and organizational compliance ensuring that security is not just a barrier, but a business enabler.
 
-* **GRC Specialist:** Aligning security programs with **NIST CSF, SOC2, and ISO 27001** standards.
 * **Defense Operations:** Hands-on with **Sentinel, Splunk, and Palo Alto** for real-time monitoring.
 * **Identity & Cloud:** Implementing **Zero Trust** architectures via **Microsoft Entra ID** and securing **Azure/AWS** environments.
+* **GRC Specialist:** Aligning security programs with **NIST CSF, SOC2, and ISO 27001** standards.
 
 ---
 
@@ -19,7 +19,7 @@ I am a **Cybersecurity Analyst & Facilitator** dedicated to building resilient s
 | :--- | :--- |
 | **SIEM / Logging** | `Microsoft Sentinel` `Splunk` `Palo Alto Cortex` |
 | **EDR / XDR** | `CrowdStrike Falcon` `Sophos Intercept X` |
-| **Data Protection** | `Microsoft Purview (DLP)` `ISO 27001 Management` |
+| **Data Protection** | `Microsoft Purview (DLP)` |
 | **Cloud & Identity** | `Azure Security` `AWS` `Microsoft Entra ID (Zero Trust)` `Google Cloud Worrkspace` |
 | **Frameworks** | `NIST CSF` `MITRE ATT&CK` `SOC2` `ISO 27001` |
 
