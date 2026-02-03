@@ -31,22 +31,16 @@ I am a **Cybersecurity Analyst & Facilitator** with deep technical expertise in 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisaramide&layout=compact&theme=tokyonight" />
 </p>
 
----
+
 
 ## ⚡ Find Me On
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/thisisaramide">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:jimoharamide02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisisaramide)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimoharamide02@gmail.com)
 
 
----
+
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisisaramide&theme=tokyonight" alt="GitHub Streak" />
 </p>
