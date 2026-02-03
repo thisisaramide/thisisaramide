@@ -20,7 +20,7 @@ I am a **Cybersecurity Analyst & Facilitator** dedicated to building resilient s
 | **SIEM / Logging** | `Microsoft Sentinel` `Splunk` `Palo Alto Cortex` |
 | **EDR / XDR** | `CrowdStrike Falcon` `Sophos Intercept X` |
 | **Data Protection** | `Microsoft Purview (DLP)` `ISO 27001 Management` |
-| **Cloud & Identity** | `Azure Security` `AWS` `Microsoft Entra ID (Zero Trust)` |
+| **Cloud & Identity** | `Azure Security` `AWS` `Microsoft Entra ID (Zero Trust)` `Google Cloud Worrkspace` |
 | **Frameworks** | `NIST CSF` `MITRE ATT&CK` `SOC2` `ISO 27001` |
 
 ---
