@@ -46,6 +46,7 @@ Cybersecurity Analyst & Facilitator focused on defensive security, compliance, a
 * **Palo Alto Networks Certified Security Operational Profession**
 * **Palo Alto SOC Operations**
 * **Cisco Networking Certified**
+* **Certified Cybersecurity Educator Professional (CCEP)**
 
 ---
 
