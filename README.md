@@ -39,43 +39,14 @@ I am a **Cybersecurity Analyst & Facilitator** with strong experience across def
 
 </div>
 
----
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thisisaramide&theme=tokyonight" />
-
-</div>
-
----
 
 ## ⚡ Find Me On
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisisaramide)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimoharamide02@gmail.com)
 
----
 
-## 🧠 Professional Interests
-
-- Security Operations & Threat Detection  
-- Cloud Security Architecture  
-- Security Awareness & Training  
-- Blue Team Strategy  
-- Compliance Program Development  
-
----
-
-## 🎓 Current Mission
-
-✔ Training future cybersecurity professionals  
-✔ Building scalable SOC learning labs  
-✔ Researching threat detection engineering  
-✔ Advancing cloud security implementations  
-
----
 
 <div align="center">
 
