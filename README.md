@@ -41,17 +41,11 @@ Cybersecurity Analyst & Facilitator focused on defensive security, compliance, a
 ---
 
 
-
-## 📜 Certifications & Achievements
-<p align="left">
-  <img src="https://img.shields.io/badge/ISO_27001_Lead_Implementer-3776AB?style=flat-square&logo=iso&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Certified:_Azure_Security_Engineer-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA_Security%2B-FF6600?style=flat-square&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk_Core_Certified_User-000000?style=flat-square&logo=splunk&logoColor=white" />
-</p>
-
-
-
+## 📜 Certifications
+* **CompTIA Security+**
+* **Palo Alto Networks Certified Security Operational Profession**
+* **Palo Alto SOC Operations**
+* **Cisco Networking Certified**
 
 ---
 
