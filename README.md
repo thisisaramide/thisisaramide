@@ -33,15 +33,6 @@ Cybersecurity Analyst & Facilitator focused on defensive security, compliance, a
 
 </div>
 
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=thisisaramide&theme=tokyonight" />
-
-</div>
 
 ---
 
