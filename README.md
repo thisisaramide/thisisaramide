@@ -53,24 +53,7 @@ Cybersecurity Analyst & Facilitator focused on defensive security, compliance, a
 
 ---
 
-## 🧠 Professional Interests
 
-- Security Operations
-- Cloud Security
-- Blue Team Strategy
-- Security Awareness
-- Compliance Programs
-
----
-
-## 🎓 Current Mission
-
-✔ Training future cybersecurity professionals  
-✔ Building SOC labs  
-✔ Researching detection engineering  
-✔ Advancing cloud security  
-
----
 
 <div align="center">
 
