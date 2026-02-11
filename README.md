@@ -2,7 +2,7 @@ Hi, I'm Toheeb
 
 ---
 
-## 🛡️ Professional Overview
+##  Professional Overview
 
 Cybersecurity Analyst & Facilitator focused on defensive security, compliance, and digital forensics.
 ---
@@ -18,7 +18,7 @@ Cybersecurity Analyst & Facilitator focused on defensive security, compliance, a
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -31,7 +31,7 @@ Cybersecurity Analyst & Facilitator focused on defensive security, compliance, a
 
 ---
 
-## ⚡ Find Me On
+##  Find Me On
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thisisaramide)
 
@@ -40,7 +40,7 @@ Cybersecurity Analyst & Facilitator focused on defensive security, compliance, a
 ---
 
 
-## 📜 Certifications
+##  Certifications
 * **CompTIA Security+**
 * **Palo Alto Networks Certified Security Operational Profession**
 * **Palo Alto SOC Operations**
