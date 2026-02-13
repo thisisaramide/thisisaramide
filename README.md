@@ -20,7 +20,7 @@ Cybersecurity Analyst & Facilitator focused on defensive security, compliance, a
 
 ## Projects
 
-<div align="center">
+
 
 - **[AI SOC](https://github.com/thisisaramide/project-repo-1)**
 
