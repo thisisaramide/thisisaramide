@@ -18,7 +18,7 @@ Cybersecurity Analyst & Facilitator focused on defensive security, compliance, a
 
 ---
 
-## GitHub Stats
+## Projects
 
 <div align="center">
 
