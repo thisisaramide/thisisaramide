@@ -23,7 +23,7 @@ Cybersecurity Analyst & Facilitator focused on defensive security, compliance, a
 
 
 - **[AI SOC](https://github.com/thisisaramide/ai-soc-analyst)**
-- **[Digital Forensics](https://github.com/thisisaramide/ai-soc-analyst)**
+- **[Digital Forensics](https://github.com/thisisaramide/Digital-Forensic-The-Stolen-Szechuan-Sauce)**
 
 </div>
 
