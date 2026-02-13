@@ -22,9 +22,7 @@ Cybersecurity Analyst & Facilitator focused on defensive security, compliance, a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thisisaramide&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisaramide&layout=compact&theme=tokyonight" />
+- **[AI SOC](https://github.com/thisisaramide/project-repo-1)**
 
 </div>
 
