@@ -4,7 +4,7 @@ Hi, I'm Toheeb
 
 ##  Professional Overview
 
-Cybersecurity Analyst & Facilitator focused on Threat Intelligence Defensive Security, Compliance, and Digital Forensics.
+Cybersecurity Analyst focused on Threat Intelligence, Defensive Security and Digital Forensics.
 ---
 
 ## 🛠️ Tech Stack
