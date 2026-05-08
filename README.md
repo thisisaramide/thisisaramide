@@ -4,7 +4,7 @@ Hi, I'm Toheeb
 
 ##  Professional Overview
 
-Cybersecurity Analyst & Facilitator focused on defensive security, compliance, and digital forensics.
+Cybersecurity Analyst & Facilitator focused on Threat Intelligence Defensive Security, Compliance, and Digital Forensics.
 ---
 
 ## 🛠️ Tech Stack
@@ -14,6 +14,7 @@ Cybersecurity Analyst & Facilitator focused on defensive security, compliance, a
 | SIEM | Microsoft Sentinel, Splunk, Palo Alto Cortex |
 | EDR/XDR | CrowdStrike, Sophos |
 | Cloud | Azure, AWS, Entra ID |
+| Threat Intelligence | Open CTI, OSINT|
 | Frameworks | NIST CSF, MITRE ATT&CK, SOC2, ISO 27001 |
 
 ---
@@ -22,7 +23,7 @@ Cybersecurity Analyst & Facilitator focused on defensive security, compliance, a
 
 
 
-- **[AI SOC](https://github.com/thisisaramide/ai-soc-analyst)**
+- **[TIAI](https://github.com/thisisaramide/ai-soc-analyst)**
 - **[Digital Forensics](https://github.com/thisisaramide/Digital-Forensic-The-Stolen-Szechuan-Sauce)**
 - **[Deep Learning IDS](https://github.com/thisisaramide/deep-learning-ids)**
 
